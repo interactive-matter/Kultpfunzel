@@ -106,7 +106,7 @@ void checkLamp() {
       //if not decrease it
       current_light_level--;
     }
-    //finalyy tell the pfunzel to go to that level
+    //finally tell the pfunzel to go to that level
     pfunzel.setLightLevel(current_light_level);
   }
 }
