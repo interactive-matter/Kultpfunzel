@@ -9,4 +9,4 @@ designed to retrofit into a Swiss Army torch enclosure.
 
 The board is Arduino compatible. 
 
-Get the full documentation and show off your hacks at htt://kultpfunzel.ch
+Get the full documentation and show off your hacks at http://kultpfunzel.ch
