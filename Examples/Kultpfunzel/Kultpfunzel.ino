@@ -27,7 +27,7 @@ The MIT License (MIT)
 #include <avr/power.h>
 
 //this metro will check the swith every 50ms
-Metro pinMetro = Metro(50,true);
+Metro pinMetro = Metro(50);
 //and this metro will give the battery voltage every minute 
 Metro batteryMetro = Metro(60000ul);
 //and every 5 ms we will check if the light level has to change
