@@ -1,5 +1,5 @@
 /*
-  Button
+  Switch demo
  
   Turns the onboard LED on when pressing the switch "SW"
 
